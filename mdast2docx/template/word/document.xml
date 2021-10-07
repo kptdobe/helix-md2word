@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas"
+            xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex"
+            xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex"
+            xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex"
+            xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex"
+            xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex"
+            xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex"
+            xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex"
+            xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex"
+            xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex"
+            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+            xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink"
+            xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d"
+            xmlns:o="urn:schemas-microsoft-com:office:office"
+            xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+            xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math"
+            xmlns:v="urn:schemas-microsoft-com:vml"
+            xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing"
+            xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing"
+            xmlns:w10="urn:schemas-microsoft-com:office:word"
+            xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+            xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml"
+            xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml"
+            xmlns:w16cex="http://schemas.microsoft.com/office/word/2018/wordml/cex"
+            xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid"
+            xmlns:w16="http://schemas.microsoft.com/office/word/2018/wordml"
+            xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex"
+            xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup"
+            xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk"
+            xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml"
+            xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape"
+            mc:Ignorable="w14 w15 w16se w16cid w16 w16cex wp14">
+    <w:background w:color="FFFFFF"/>
+    <w:body>
+        <w:p w14:paraId="52E017F9" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 1</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1E1AFC83" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="57574773" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading3"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 3</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="4A5CDBD2" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading4"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 4</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="6769E758" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading5"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Heading 5</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="64DD15ED" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading6"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:i/>
+                    <w:iCs/>
+                </w:rPr>
+                <w:t>Heading 6</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3F116A13" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:r>
+                <w:t xml:space="preserve">This paragraph has </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:bCs/>
+                </w:rPr>
+                <w:t>bold</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> or </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:i/>
+                    <w:iCs/>
+                </w:rPr>
+                <w:t>italic</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> or </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:u w:val="single"/>
+                </w:rPr>
+                <w:t>underlined</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> text.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1A1F3545" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:r>
+                <w:t xml:space="preserve">This paragraph has </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:i/>
+                    <w:iCs/>
+                </w:rPr>
+                <w:t>bold-italic</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve">, </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:i/>
+                    <w:iCs/>
+                    <w:u w:val="single"/>
+                </w:rPr>
+                <w:t>underlined-italic</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> and </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:b/>
+                    <w:bCs/>
+                    <w:u w:val="single"/>
+                </w:rPr>
+                <w:t>underlined-bold</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> text.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3A4B4DCA" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:r>
+                <w:t xml:space="preserve">This paragraph has code and </w:t>
+            </w:r>
+            <w:hyperlink r:id="rId7" w:history="1">
+                <w:r>
+                    <w:rPr>
+                        <w:rStyle w:val="Hyperlink"/>
+                    </w:rPr>
+                    <w:t>links</w:t>
+                </w:r>
+            </w:hyperlink>
+            <w:r>
+                <w:t>.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7D85ED65" w14:textId="02CD5237" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:r>
+                <w:t xml:space="preserve">This has even more formatting like </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:strike/>
+                </w:rPr>
+                <w:t>strikethrough</w:t>
+            </w:r>
+            <w:r>
+                <w:t xml:space="preserve"> and some</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:vertAlign w:val="subscript"/>
+                </w:rPr>
+                <w:t>supscript</w:t>
+            </w:r>
+            <w:r w:rsidR="00235843">
+                <w:rPr>
+                    <w:vertAlign w:val="subscript"/>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:t>and</w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:vertAlign w:val="superscript"/>
+                </w:rPr>
+                <w:t>superscript</w:t>
+            </w:r>
+            <w:r>
+                <w:t>.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="15F133A8" w14:textId="3F0C5F05" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">This is </w:t>
+            </w:r>
+            <w:r w:rsidRPr="00235843">
+                <w:rPr>
+                    <w:rStyle w:val="InlineCode"/>
+                </w:rPr>
+                <w:t>Inline Code</w:t>
+            </w:r>
+            <w:r w:rsidR="006E467F">
+                <w:t>.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3EC70D6B" w14:textId="3D4D3158" w:rsidR="00FA7969" w:rsidRPr="00235843"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>Here some block code:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="210B156B" w14:textId="7B41E3B3" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F" w:rsidP="00235843">
+            <w:pPr>
+                <w:pStyle w:val="CodeBlock"/>
+            </w:pPr>
+            <w:r>
+                <w:t>async function getFile(drive, parentId, name, isFolder) {</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t xml:space="preserve">  const query = [</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t xml:space="preserve">    `'${parentId}' in parents`,</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t xml:space="preserve">    `and name = ${JSON.stringify(name)}`,</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t xml:space="preserve">    'and trashed=false',</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t xml:space="preserve">    `and mimeType ${isFolder ? '=' : '!='} }</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="7CF72E67" w14:textId="19DA5A7C" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>N</w:t>
+            </w:r>
+            <w:r w:rsidR="006E467F">
+                <w:t>umbered lists:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="31BC2612" w14:textId="04BD8E90" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>one</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1A0D55BC" w14:textId="0F71BF09" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>two</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0C9ED4EF" w14:textId="6A08C08A" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>three</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="445B7AD0" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Apple</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="04835AED" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Oranges</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3E43F603" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Lemons</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5041A89B" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="2"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Roman</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="01EE2225" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="2"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Greek</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t>Muiltiline</w:t>
+            </w:r>
+            <w:r>
+                <w:br/>
+                <w:t>With code.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="27A0A522" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="2"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Spanish</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="58EBCBF7" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>And unordered lists:</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="68FC9F90" w14:textId="03A14CFB" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>one</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="3E82598A" w14:textId="6660F30C" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>two</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="29B1D123" w14:textId="2A96DA9B" w:rsidR="00FA7969"
+             w:rsidRDefault="00235843" w:rsidP="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>three</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="60457B8A" w14:textId="588CCDB8" w:rsidR="00235843" w:rsidRPr="00235843"
+             w:rsidRDefault="00235843" w:rsidP="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="2"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>four</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="78FE6AC4" w14:textId="0B3563E0" w:rsidR="00235843"
+             w:rsidRDefault="00235843" w:rsidP="00235843">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="2"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>five</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="25B0E290" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Nested 1</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="0DF086A8" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="1"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Nested 2</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="5F6A946D" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="3"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:lastRenderedPageBreak/>
+                <w:t>Mixed with ordered</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="16CCF8AF" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>One</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="506D184E" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Two</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="044A5429" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="ListParagraph"/>
+                <w:numPr>
+                    <w:ilvl w:val="0"/>
+                    <w:numId w:val="2"/>
+                </w:numPr>
+            </w:pPr>
+            <w:r>
+                <w:t>Three</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="30C461B9" w14:textId="77777777" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>Let’s try a simple table</w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="PageBlock"/>
+                <w:tblW w:w="0" w:type="auto"/>
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1"
+                           w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="416"/>
+                <w:gridCol w:w="428"/>
+                <w:gridCol w:w="405"/>
+                <w:gridCol w:w="428"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00FA7969" w14:paraId="7C90FC72" w14:textId="77777777"
+                  w:rsidTr="00FA7969">
+                <w:trPr>
+                    <w:cnfStyle w:val="100000000000" w:firstRow="1" w:lastRow="0" w:firstColumn="0"
+                                w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0"
+                                w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0"
+                                w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+                    <w:tblHeader/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="78E5CA93" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>a0</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="22995779" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>b0</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6FBD905A" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>c0</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5657ACE7" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>d0</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FA7969" w14:paraId="675B0929" w14:textId="77777777">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="61319C25" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>a1</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="474025A9" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>b1</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="02F1A5A8" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>c1</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0B6CC8AB" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>d1</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FA7969" w14:paraId="09781901" w14:textId="77777777">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2A7B4DD7" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>a2</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5766077F" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>b2</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="003A7D8A" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>c2</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="5EEEC7E9" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>d2</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="6C72133D" w14:textId="77777777" w:rsidR="00235843"
+             w:rsidRDefault="00235843">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="5F63F7AE" w14:textId="1A453795" w:rsidR="00FA7969"
+             w:rsidRDefault="006E467F">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+            <w:r>
+                <w:t>And a more complex table</w:t>
+            </w:r>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="PageBlock"/>
+                <w:tblW w:w="0" w:type="auto"/>
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1"
+                           w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="1172"/>
+                <w:gridCol w:w="861"/>
+                <w:gridCol w:w="917"/>
+                <w:gridCol w:w="1814"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00FA7969" w14:paraId="5C8ACD02" w14:textId="77777777"
+                  w:rsidTr="00FA7969">
+                <w:trPr>
+                    <w:cnfStyle w:val="100000000000" w:firstRow="1" w:lastRow="0" w:firstColumn="0"
+                                w:lastColumn="0" w:oddVBand="0" w:evenVBand="0" w:oddHBand="0"
+                                w:evenHBand="0" w:firstRowFirstColumn="0" w:firstRowLastColumn="0"
+                                w:lastRowFirstColumn="0" w:lastRowLastColumn="0"/>
+                    <w:tblHeader/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1921B085" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:rPr>
+                                <w:bCs/>
+                            </w:rPr>
+                            <w:t>Country</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3C7D9DC8" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:rPr>
+                                <w:bCs/>
+                            </w:rPr>
+                            <w:t>Abbrev</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="3A1AD5BA" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:rPr>
+                                <w:bCs/>
+                            </w:rPr>
+                            <w:t>Amount</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="328612C5" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:rPr>
+                                <w:bCs/>
+                            </w:rPr>
+                            <w:t>Example</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FA7969" w14:paraId="6AAC3C9D" w14:textId="77777777">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="53E79D77" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>Switzerland</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="7790D2F7" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>CH</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="09FA4DC9" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>5</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6286DBD4" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>const a=1; let b=5;</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FA7969" w14:paraId="69878D19" w14:textId="77777777">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="6C9E42C0" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>USA</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0E73B949" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>US</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0897F0FA" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>2.5</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="480456ED" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:rPr>
+                                <w:i/>
+                                <w:iCs/>
+                            </w:rPr>
+                            <w:t>n/a -</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:t xml:space="preserve"> or </w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:noProof/>
+                            </w:rPr>
+                            <w:drawing>
+                                <wp:inline distT="0" distB="0" distL="0" distR="0"
+                                           wp14:anchorId="229DD7E9" wp14:editId="1C70C5C9">
+                                    <wp:extent cx="304800" cy="304800"/>
+                                    <wp:effectExtent l="0" t="0" r="0" b="0"/>
+                                    <wp:docPr id="2" name="Picture 2"/>
+                                    <wp:cNvGraphicFramePr>
+                                        <a:graphicFrameLocks
+                                                xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+                                                noChangeAspect="1"/>
+                                    </wp:cNvGraphicFramePr>
+                                    <a:graphic
+                                            xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+                                        <a:graphicData
+                                                uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                            <pic:pic
+                                                    xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+                                                <pic:nvPicPr>
+                                                    <pic:cNvPr id="0" name=""/>
+                                                    <pic:cNvPicPr>
+                                                        <a:picLocks noChangeAspect="1"
+                                                                    noChangeArrowheads="1"/>
+                                                    </pic:cNvPicPr>
+                                                </pic:nvPicPr>
+                                                <pic:blipFill>
+                                                    <a:blip r:embed="rId8"/>
+                                                    <a:srcRect/>
+                                                    <a:stretch>
+                                                        <a:fillRect/>
+                                                    </a:stretch>
+                                                </pic:blipFill>
+                                                <pic:spPr bwMode="auto">
+                                                    <a:xfrm>
+                                                        <a:off x="0" y="0"/>
+                                                        <a:ext cx="304800" cy="304800"/>
+                                                    </a:xfrm>
+                                                    <a:prstGeom prst="rect">
+                                                        <a:avLst/>
+                                                    </a:prstGeom>
+                                                </pic:spPr>
+                                            </pic:pic>
+                                        </a:graphicData>
+                                    </a:graphic>
+                                </wp:inline>
+                            </w:drawing>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FA7969" w14:paraId="1473D2B8" w14:textId="77777777">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="103CF178" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>Japan</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="0D0845F7" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>JP</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="1170BF25" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>3.14</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="0" w:type="auto"/>
+                    </w:tcPr>
+                    <w:p w14:paraId="2D619A93" w14:textId="77777777" w:rsidR="00FA7969"
+                         w:rsidRDefault="006E467F">
+                        <w:r>
+                            <w:t>Math.PI;</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w14:paraId="42BABE2F" w14:textId="338318E7" w:rsidR="00FA7969"
+             w:rsidRDefault="00FA7969" w:rsidP="00235843">
+            <w:pPr>
+                <w:pStyle w:val="Heading2"/>
+            </w:pPr>
+        </w:p>
+        <w:p w14:paraId="475F13E2" w14:textId="7EE10C3F" w:rsidR="00A133DC"
+             w:rsidRDefault="00A133DC" w:rsidP="004E2A95">
+            <w:pPr>
+                <w:pStyle w:val="Heading1"/>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>And Some quotes</w:t>
+            </w:r>
+        </w:p>
+        <w:p w14:paraId="1A9FB81D" w14:textId="17944CF8" w:rsidR="00A133DC" w:rsidRPr="00A133DC"
+             w:rsidRDefault="00A133DC" w:rsidP="00A133DC">
+            <w:pPr>
+                <w:pStyle w:val="Quote"/>
+            </w:pPr>
+            <w:r w:rsidRPr="00A133DC">
+                <w:t>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tempor, eros
+                    vitae egestas scelerisque, tellus erat blandit sem, ut volutpat sem erat sit
+                    amet augue. Nulla facilisi. Vivamus ac nulla vitae lacus pharetra rhoncus vel
+                    sed ligula. Cras ultricies, nunc vitae mollis posuere, orci erat auctor enim,
+                    nec tristique sem sapien quis mauris. Phasellus tristique lorem pellentesque
+                    elit vestibulum, et dictum ipsum ullamcorper. Maecenas at interdum nisl.
+                </w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="00A133DC" w:rsidRPr="00A133DC">
+            <w:headerReference w:type="even" r:id="rId9"/>
+            <w:headerReference w:type="default" r:id="rId10"/>
+            <w:footerReference w:type="even" r:id="rId11"/>
+            <w:footerReference w:type="default" r:id="rId12"/>
+            <w:headerReference w:type="first" r:id="rId13"/>
+            <w:footerReference w:type="first" r:id="rId14"/>
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="708"
+                     w:footer="708" w:gutter="0"/>
+            <w:cols w:space="708"/>
+            <w:docGrid w:linePitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

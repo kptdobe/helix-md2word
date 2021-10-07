@@ -1,0 +1,27 @@
+{
+  "name": "helix-importer-bundle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "converter.js",
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "npx webpack"
+  },
+  "dependencies": {
+    "@adobe/helix-markdown-support": "2.0.1",
+    "mdast2docx": "./mdast2docx",
+    "remark-gfm": "1.0.0",
+    "remark-parse": "9.0.0",
+    "unified": "9.2.0"
+  },
+  "devDependencies": {
+    "buffer": "6.0.3",
+    "crypto-browserify": "3.12.0",
+    "raw-loader": "4.0.2",
+    "stream-browserify": "3.0.0",
+    "webpack": "5.57.1",
+    "webpack-cli": "4.8.0"
+  }
+}
